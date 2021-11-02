@@ -11,6 +11,6 @@ public class Main {
                 "Turn 2. Answer:\n" +
                 "9876\n" +
                 "Grade: 4 bulls.\n" +
-                "Congrats! The secret code is 9876.");
+                "Congrats! The secret code is 9877.");
     }
 }
